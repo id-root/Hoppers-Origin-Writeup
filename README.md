@@ -2311,6 +2311,4 @@ He must find a way out.
  
 The room is now ended we got all the flags...
 
-## Mind map 
 
-![](map.png)
