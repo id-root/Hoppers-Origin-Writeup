@@ -2313,6 +2313,6 @@ The room is now ended we got all the flags...
 
 ## Mind Map
 
-**Note:** _This mind map is AI generated so content may be innaccurate_
+**Note:** _This mind map is AI generated so content may be inaccurate_
 
 ![](map.png)
