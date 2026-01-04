@@ -431,7 +431,7 @@ Now we have successfully logged in .
 
 ###### Now lets do enumeration on database
 
-ok so lets try to enumerate network cause we have to escape this db and find a way to `ai.vanchat.loc`
+ok so lets try to enumerate network cause we have to escape this db and find a way to `server 1`
 
 as we can't use other tools we will use a custom network enumeration script using bash:
 
