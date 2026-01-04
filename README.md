@@ -174,8 +174,6 @@ It require a passphrase to do ssh so lets try to get the password
 
 ```bash
 
-ssh2john id_rsa > id_rsa_hash
-
 ❯ python crackssh.py id_rsa ~/wordlists/rockyou_2025_00.txt
 [*] Attempting to crack id_rsa using /home/vector/wordlists/rockyou_2025_00.txt...
 
@@ -183,7 +181,11 @@ ssh2john id_rsa > id_rsa_hash
 
 ```
 
->[!note] I used my custom python script insted of john cause my system having some problems with john... if you also encounter any problem with john use the python script below.. 
+> 🗒️**Note**
+> --- 
+> _I used my custom Python script instead of John because my system had issues with John._  
+> _If you encounter similar problems, use the Python script below._
+
 
 ```python
 import sys
@@ -951,7 +953,9 @@ then upload this payload ...
 
 then on db server setup a listner to capture the root shell
 
-> [!note] Make sure you run this payload in rdp session cause msi payloads execution using evil-winrm often fails
+> 🗒️ **Note**
+> ---
+> _Make sure you run this payload in rdp session cause msi payloads execution using evil-winrm often fails_
 
 
 ![](data2.png)
