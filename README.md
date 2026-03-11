@@ -1154,7 +1154,7 @@ lets get the root flag
 
 ```python
 *Evil-WinRM* PS C:\Users\qw1.brian.singh\Documents> type C:\Users\Administrator\root.txt
-THM{d93ffd47-5629-4590-8eb3-743404547e04}
+THM{496fde67-1d0d-4776-833d-b6371f290eac}
 
 Hopper got giddy remembering where the siege on Wareville first began: VanChat. The rush of excitement he felt when LLMs were introduced to the world gave him another attack surface to penetrate—another perimeter to breach…
 *Evil-WinRM* PS C:\Users\qw1.brian.singh\Documents> 
